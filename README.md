@@ -23,8 +23,8 @@ You can run this file as is if you use a Jupyter notebook
 ***
 **relational_tables.jpg**
 
-This repository also incldues a potential relational database model, with columns that would specify relations between tables 
-Each table has a primary key 
-Each table other than the subscriber table includes subscriber id as a foreign key 
-Both the address and phoneNumber table also have contactInformation id as a foreign key as it is linked to subscriber contact information in the json file given
-To accurately specify the current data I have also added a last updated column to the subscriber, address and phoneNumber tables 
+* This repository also incldues a potential relational database model, with columns that would specify relations between tables 
+* Each table has a primary key 
+* Each table other than the subscriber table includes subscriber id as a foreign key 
+* Both the address and phoneNumber table also have contactInformation id as a foreign key as it is linked to subscriber contact information in the json file given
+* To accurately specify the current data I have also added a last updated column to the subscriber, address and phoneNumber tables 
