@@ -2,7 +2,7 @@ To run this program on your local machine (vs code etc.), you can clone this rep
 You can run this file as is if you use a Jupyter notebook
 ***
 **Assumptions**
-***
+
 * Data provided in json format
 * Data has to be organized and output into csv files
 * The csv interfaces do not have primary keys and foreign keys
@@ -20,9 +20,9 @@ You can run this file as is if you use a Jupyter notebook
 ![csv image](/static/subscriber_csv.jpg)
 
 
-
-**relational_tables.jpg**
 ***
+**relational_tables.jpg**
+
 This repository also incldues a potential relational database model, with columns that would specify relations between tables 
 Each table has a primary key 
 Each table other than the subscriber table includes subscriber id as a foreign key 
